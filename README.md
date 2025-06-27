@@ -1,4 +1,4 @@
-# Hi there, I'm XcentricCoder 👋
+# Hi there, I'm Soumyaditya Nandy 👋
 
 I'm an aspiring hardware engineer passionate about bridging the gap between hardware and software. I love working at the intersection of digital logic, embedded systems, and modern programming.
 
