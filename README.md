@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Soumyaditya Nandy 👋
 
-<!--
-**XcentricCoder/XcentricCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring hardware engineer passionate about bridging the gap between hardware and software. I love working at the intersection of digital logic, embedded systems, and modern programming.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🛠 **Skills**:  
+  - Languages: Python, C  
+  - Hardware Description: Verilog, SystemVerilog  
+- 💡 **Passion**: Building efficient, robust systems by integrating hardware and software solutions.
+- 🧑‍💻 **Project Highlight**:  
+  - **32-bit Pipelined RISC-V Processor**  
+    Designed and implemented a 32-bit pipelined RISC-V processor using TL-Verilog on the Makerchip simulator.  
+    _Exploring architecture, pipelining, and the power of open hardware!_
+
+---
+
+## 🛠️ Technologies & Tools
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Verilog](https://img.shields.io/badge/verilog-%231572B6.svg?style=for-the-badge&logoColor=white&color=orange)
+![SystemVerilog](https://img.shields.io/badge/systemverilog-%231572B6.svg?style=for-the-badge&logoColor=white&color=blue)
+![Makerchip](https://img.shields.io/badge/Makerchip-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+![XcentricCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=XcentricCoder&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XcentricCoder&layout=compact)
+
+---
+
+## ✨ Let's Connect!
+
+Feel free to check out my repositories to see what I'm working on, and connect if you share similar interests in hardware engineering and embedded systems!
+
+---
+
+> “Passionate about bridging hardware and software.”
