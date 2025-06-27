@@ -8,7 +8,7 @@ I'm an aspiring hardware engineer passionate about bridging the gap between hard
 
 - 🛠 **Skills**:  
   - Languages: Python, C, C++, JavaScript  
-  - Hardware Description: Verilog, SystemVerilog  
+  - Hardware Description: Verilog, SystemVerilog, TL Verilog  
 - 💡 **Passion**: Building efficient, robust systems by integrating hardware and software solutions.
 - 🧑‍💻 **Project Highlight**:  
   - **32-bit Pipelined RISC-V Processor**  
@@ -26,6 +26,7 @@ I'm an aspiring hardware engineer passionate about bridging the gap between hard
 ![Verilog](https://img.shields.io/badge/verilog-%231572B6.svg?style=for-the-badge&logoColor=white&color=orange)
 ![SystemVerilog](https://img.shields.io/badge/systemverilog-%231572B6.svg?style=for-the-badge&logoColor=white&color=blue)
 ![Makerchip](https://img.shields.io/badge/Makerchip-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EDA Playground](https://img.shields.io/badge/EDA%20Playground-0066CC?style=for-the-badge&logo=gnu&logoColor=white)
 
 ---
 
