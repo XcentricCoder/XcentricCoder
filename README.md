@@ -12,7 +12,7 @@ I'm an aspiring hardware engineer passionate about bridging the gap between hard
 - 💡 **Passion**: Building efficient, robust systems by integrating hardware and software solutions.
 - 🧑‍💻 **Project Highlight**:  
   - **32-bit Pipelined RISC-V Processor**  
-    Designed and implemented a 32-bit pipelined RISC-V processor using TL-Verilog on the Makerchip simulator.  
+    Designed and implemented a 32-bit 6-staged pipelined RISC-V processor (IF -> ID -> RF -> EX -> MEM -> WB) using TL-Verilog on the Makerchip simulator.  
     _Exploring architecture, pipelining, and the power of open hardware!_
 
 ---
