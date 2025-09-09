@@ -35,6 +35,13 @@ I'm an aspiring hardware engineer passionate about bridging the gap between hard
 ![EDA Playground](https://img.shields.io/badge/EDA%20Playground-0066CC?style=for-the-badge&logo=gnu&logoColor=white)  
 <img width="150" height="70" alt="image" src="https://github.com/user-attachments/assets/2238d61f-a301-4ce7-a1ad-3f89b66a98e8" />
 
+---
+## 🔧 FPGA & Open-Source EDA Experience
+
+- Yosys – Worked with open-source synthesis tool for digital hardware designs (Verilog/SystemVerilog).
+- NPR – Used for placement and routing in FPGA flows.
+- Project IceStorm – Explored bitstream generation and FPGA programming for Lattice iCE40 devices.
+- Flow Integration – Hands-on with the open-source FPGA toolchain to design, synthesize, and map hardware designs onto FPGAs.
 
 ---
 
