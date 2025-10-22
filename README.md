@@ -18,8 +18,8 @@ I'm an aspiring hardware engineer passionate about bridging the gap between hard
 - 🧑‍💻 **Project Highlight**:  
   - **32-bit Pipelined RISC-V Processor**  
     Designed and implemented a 32-bit 6-staged pipelined RISC-V processor (IF → ID → RF → EX → MEM → WB) using TL-Verilog on the Makerchip simulator.
-      
-    _Exploring architecture, pipelining, and the power of open hardware!_  
+  - **AHB-to-APB Bridge (Verilog)**
+    Implemented an AMBA AHB to APB bridge in Verilog for interfacing high-performance AHB peripherals with low-speed APB devices.
 
 ---
 
