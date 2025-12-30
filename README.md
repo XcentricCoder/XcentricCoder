@@ -5,7 +5,7 @@ I'm an aspiring hardware engineer passionate about bridging the gap between hard
 ---
 
 🎓 **Undergraduate Student | Electrical & Electronics Engineering (EEE) |** [**BITS Pilani**](https://www.bits-pilani.ac.in/goa/)  
-📊 Current **CGPA: 8.27 / 10**  
+📊 Current **CGPA: 8.5 / 10**  
 
 ---
 
